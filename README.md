@@ -8,14 +8,19 @@ Dieses Repo enthält absichtlich keine personenbezogenen Daten, keinen konkreten
 
 1. `docs/00-publication-boundary.md` lesen.
 2. `docs/01-12-schritte-outline-gate.md` lesen.
-3. `workspace/01_expose_und_forschungsfrage/FORSCHUNGSFRAGEN.md` finalisieren.
-4. Erst danach Literaturmatrix, Syntheselogik und Framework-Entwicklung vertiefen.
+3. `skills/uni-seeburg-mba-lit-02/SKILL.md` als operativen Codex-Skill laden.
+4. `workspace/01_expose_und_forschungsfrage/FORSCHUNGSFRAGEN.md` finalisieren.
+5. Erst danach Literaturmatrix, Syntheselogik und Framework-Entwicklung vertiefen.
 
 ## Aktueller Typ
 
 - Arbeitstyp: Literaturarbeit / konzeptionelles Framework.
 - Primärer Qualitätsfokus: Forschungsfrage schärfen, Reviewlogik, Quellenqualität, Framework-Eigenleistung, Praxisimplikationen.
 - Public-Grenze: konkrete Person, Thema, Unternehmensdaten und interne Praxisunterlagen bleiben außerhalb dieses öffentlichen Repos.
+
+## Codex-Skill
+
+- `skills/uni-seeburg-mba-lit-02/SKILL.md` bündelt die Bewertungslogik, 1er-Benchmarks, Qualitätsgates, Quellenregeln, KI-Dokumentation und Formalia für dieses Repo.
 
 ## Wichtig
 
